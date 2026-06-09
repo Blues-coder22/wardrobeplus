@@ -1,8 +1,8 @@
-# WardrobePlus 👗👔
+#WardrobePlus 
 
 WardrobePlus is a modern Flutter application designed to help users manage their clothing inventory, discover fashion trends, and get personalized style recommendations based on their body type and preferences.
 
-## 🚀 Features
+##Features
 
 - **Closet Inventory**: View and manage your digital closet with a clean, grid-based interface.
 - **Personalized Onboarding**: Tailored experience with a body type quiz and style preference selection.
@@ -12,15 +12,11 @@ WardrobePlus is a modern Flutter application designed to help users manage their
 - **User Authentication**: Secure login and registration flow.
 - **Profile Management**: Customize your style profile and preferences.
 
-## 📸 Screenshots
-
-*(Add screenshots here after running the app)*
-
-## 🛠️ Tech Stack
+Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/)
 - **Language**: [Dart](https://dart.dev/)
-- **State Management**: (Add your choice here, e.g., Provider, Riverpod, Bloc)
+
 - **UI Components**: Custom widgets for Garment Cards, Weather, and Trends.
 
 ## 🏁 Getting Started
@@ -53,7 +49,7 @@ WardrobePlus is a modern Flutter application designed to help users manage their
    flutter run
    ```
 
-## 📂 Project Structure
+## Project Structure
 
 - `lib/presentation/auth/`: Login, registration, and onboarding screens.
 - `lib/presentation/closet/`: Closet inventory and garment details.
@@ -61,10 +57,6 @@ WardrobePlus is a modern Flutter application designed to help users manage their
 - `lib/presentation/profile/`: User profile and preference screens.
 - `lib/presentation/navigation/`: App navigation container.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
