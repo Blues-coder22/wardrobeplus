@@ -13,8 +13,14 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # Gives you access to the clean, modern look of iOS/Material system icons
   cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  cloud_firestore: ^5.0.2
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  shared_preferences: ^2.2.3
   change_app_package_name: ^1.5.0
 
 dev_dependencies:

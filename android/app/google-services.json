@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004565969193",
+    "project_id": "wardrobeplus-b30d3",
+    "storage_bucket": "wardrobeplus-b30d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004565969193:android:0a737f35ed48494db31f38",
+        "android_client_info": {
+          "package_name": "com.example.wardrobeplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbdhqqd7f0kUGSTathhZIsMsgeaFjrr70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
